@@ -15,4 +15,4 @@ git commit -m : To commit all the staging files . 		'-m' denotes : please commit
 git log : To see the all the commited files.
 
 
-Doc by Soumyananda
+Doc by Soumyananda Pattanaik
