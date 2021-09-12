@@ -1,0 +1,18 @@
+Welcome to Git Hub Developer Journey.
+
+
+
+git status: To check the status of files inside a        	    git repository
+
+git init : initialize a new git repository
+
+git add --a : include all the files for the 	      Staging Area.
+
+git rm --cached <file> :  to unstage
+
+git commit -m : To commit all the staging files . 		'-m' denotes : please commit the 		files with a message. 
+
+git log : To see the all the commited files.
+
+
+Doc by Soumyananda
